@@ -8,21 +8,21 @@ export default function Background() {
                 <Card style={{ width: "1300px", minHeight: "428px", marginBottom: "50px", backgroundColor: "#DEEED6" }} className="text-black">
                     <div style={{ top: "auto", width: "578px", marginLeft: "100px", marginBottom: "50px", marginTop: "75px"}}>
                         <Card.Text style={{ fontSize: "2.5em", fontWeight: "bold" }}>
-                            Order groceries for delivery <br /> or pickup today
+                            Order groceries for delivery <br/> or pickup today
                     </Card.Text>
                         <Card.Text style={{ fontSize: "1em" }}>
                             Whatever you want from local stores, brought right to your door.
                     </Card.Text>
                         <Form>
                             <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
-                                <Form.Control size="lg" type="text" placeholder="   Enter your address                                         ->" />
+                                <Form.Control size="lg" type="text" placeholder="   Enter your address                                         ->"/>
                             </Form.Group>
                         </Form>
                     </div>
                 </Card>
             </div>
             <div >
-                <img style={{ height: "428px", width: "20%", position: "absolute", backgroundSize: "contain", backgroundRepeat: "no-repeat" }} src="src\bgpic.jpg" alt="Card image" />
+                <img style={{ height: "428px", width: "20%", position: "absolute", backgroundSize: "contain", backgroundRepeat: "no-repeat" }} src="C:\Users\morde\CODING\RR-Bootstrap-Replica\src\bgpic.jpg" alt="Card image"/>
             </div>
         </div>
     )

@@ -76,6 +76,6 @@ export default function StoreListings() {
                 </Row>
 
             </Container>
-        </div >
+        </div>
     )
 }
